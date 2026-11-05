@@ -1,0 +1,3 @@
+Q1: Without a volume, a file stored only in the container's writable layer is lost when that container is deleted.
+Q2: The web service has no published port because the proxy is the public entry point and forwards requests to web over the internal Compose network.
+Q3: An image is a reusable template containing an application and its dependencies, while a container is a running or stopped instance of that image.
